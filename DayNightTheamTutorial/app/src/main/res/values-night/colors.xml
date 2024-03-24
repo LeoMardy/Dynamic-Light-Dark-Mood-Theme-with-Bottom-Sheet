@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="background_color">#000000</color>
+    <color name="text_color">#ffab40</color>
+    <color name="text_color_2">#ff7997</color>
+    <color name="swtcher_color">#263238</color>
+
+</resources>
